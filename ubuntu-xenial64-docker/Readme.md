@@ -1,6 +1,4 @@
 
-### DevOps tool box
+### Ubuntu docker box
 
-```
-$ vagrant up devops
-```
+This box is for docker development.
