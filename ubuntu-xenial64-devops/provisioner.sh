@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TERRAFORM="https://releases.hashicorp.com/terraform/0.9.6/terraform_0.9.6_linux_amd64.zip?_ga=2.93593816.490776699.1494273345-1065763048.1494273345"
+TERRAFORM="https://releases.hashicorp.com/terraform/0.9.6/terraform_0.9.6_linux_amd64.zip?_ga=2.61725868.1056884475.1495820049-1370219471.1495820048"
 PACKER="https://releases.hashicorp.com/packer/1.0.0/packer_1.0.0_linux_amd64.zip?_ga=2.61043948.157987214.1494273286-70238317.1494273286"
 CONSUL="https://releases.hashicorp.com/consul/0.8.1/consul_0.8.1_linux_amd64.zip?_ga=2.137799600.144444728.1494277813-1505192070.1494277764"
 NOMAD="https://releases.hashicorp.com/nomad/0.5.6/nomad_0.5.6_linux_amd64.zip?_ga=2.194989741.144444728.1494277813-1505192070.1494277764"
